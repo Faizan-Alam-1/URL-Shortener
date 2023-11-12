@@ -1,5 +1,5 @@
 	
-# URL Shortener using API Gateway, Lambda, and DynamoDBB
+# URL Shortener using API Gateway, Lambda, and DynamoDB
 
 ## Project Overview
 
